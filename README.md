@@ -5,7 +5,7 @@
 - 🧬 Vigilante Rp (helper)
 - Ⓒ︎ https://dsc.gg/Vigilanteroleplay
 - 🎮Terasque Management (developer) ...
-- Ⓣ︎ dsc.gg/terasquerp
+- Ⓣ︎ https://dsc.gg/terasquerp
 <!---
 razzelTV/razzelTV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
